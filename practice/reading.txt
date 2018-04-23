@@ -1,0 +1,54 @@
+
+4.12.18
+
+ch7 -  Demonstrating Factorials
+
+ch8 - the primitive types
+
+
+4.14 - skim 3 sections, did 2 exercises, 
+
+ch8 - using objects
+ch8 - java’s arrays
+ch8 - working with strings
+
+ch7 - implementing library functionality - anagram exercise
+ch7 - implementing library functionality - Write a method to reverse a String exercise
+
+4.15
+
+Ch8 - understanding generics 
+Ch8 - autoboxing and unboxing 
+Ch8 - Using annotations
+
+Exercise idea - write a stack 
+Exercise idea - write a generic / override program 
+
+4.18 (read 6 sections)
+
+Ch8 - naming conventions, 
+	handling exceptions, 
+	using the standard java library, 
+	looking forward to java 8, 
+	summary 
+
+Ch9 - testing with junit introduction
+
+
+4/21/18
+
+Ch9 - Best Practices for Using JUnit
+
+Ch9 - Eliminating Dependencies with Mocks
+
+Ch9 - Creating System Tests with Behavior-Driven Development
+
+Ch9 - Summary 
+
+
+
+
+
+
+
+
