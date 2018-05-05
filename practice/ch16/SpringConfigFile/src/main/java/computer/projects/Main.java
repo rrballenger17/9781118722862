@@ -6,6 +6,8 @@ import org.springframework.context.annotation.AnnotationConfigApplicationContext
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 import org.springframework.stereotype.Component;
 
+import computer.projects.beans.MockMessageService;
+
 public class Main {
 	
 	public static void main(String[] args) {
@@ -13,7 +15,9 @@ public class Main {
 		System.out.println("Starting...");
 		
     		ApplicationContext context = 
-    	    	   new AnnotationConfigApplicationContext(SpringJavaConfiguration.class);
+                    new ClassPathXmlApplicationContext(
+                            "computer/projects/Context.xml");
+    	   // 	   new AnnotationConfigApplicationContext(SpringJavaConfiguration.class);
     	
     		MessageService printer = context.getBean(MockMessageService.class);
 

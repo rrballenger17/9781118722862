@@ -1,6 +1,8 @@
-package computer.projects;
+package computer.projects.beans;
 
 import org.springframework.stereotype.Component;
+
+import computer.projects.MessageService;
 
 @Component
 public class MockMessageService implements MessageService {
